@@ -3,5 +3,5 @@
 <<<<<<< HEAD
 This is where he made them locally.
 =======
-This is where Jacob made changes online.
+This is where gemiel99 made corrections.
 >>>>>>> origin/master
