@@ -1,7 +1,3 @@
 ### Well hello there!
 
-<<<<<<< HEAD
-This is where he made them locally.
-=======
-This is where Jacob made changes online.
->>>>>>> origin/master
+This is where Jacob made corrections from a 2nd account.
